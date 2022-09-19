@@ -2,8 +2,8 @@ package git_test2;
 
 public class Main {
 	public static void main(String[] args) {
-		Hello j = new Hello();
-		j.say();
+		Hello hello = new Hello();
+		hello.say();
 	}
 
 }
